@@ -4493,6 +4493,9 @@ definitions:
     properties:
       selector:
         $ref: "#/definitions/ImageSelector"
+      rule_id:
+        type: string
+        description: Unique identifier for archive rule
       tag_versions_newer:
         type: integer
         description: Number of images mapped to the tag that are newer
