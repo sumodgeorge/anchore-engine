@@ -3,3 +3,4 @@ Flask-Testing
 memory_profiler
 docker==4.3.1
 coverage==5.3.1
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
