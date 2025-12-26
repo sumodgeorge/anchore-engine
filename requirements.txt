@@ -20,7 +20,7 @@ semantic-version==2.6.0
 six==1.14.0
 SQLAlchemy==1.4.23
 swagger-spec-validator==2.4.3
-marshmallow==3.9.0
+marshmallow==3.26.2
 treelib==1.5.5
 Twisted[tls]==20.3.0
 urllib3==1.26.6
