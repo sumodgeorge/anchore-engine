@@ -1,4 +1,4 @@
-Authlib==0.15.2
+Authlib==1.6.6
 boto3==1.18.20
 Click==8.0.1
 connexion==2.5.1
@@ -23,9 +23,9 @@ swagger-spec-validator==2.4.3
 marshmallow==3.9.0
 treelib==1.5.5
 Twisted[tls]==20.3.0
-urllib3==1.26.6
+urllib3==2.6.3
 watchdog==0.9.0
-Werkzeug==0.16.0
+Werkzeug==3.1.5
 yosai==0.3.2
 zope.component==4.6
 zope.interface==4.7.2
