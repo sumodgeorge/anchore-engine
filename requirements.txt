@@ -30,7 +30,7 @@ yosai==0.3.2
 zope.component==4.6
 zope.interface==4.7.2
 ijson==2.5.1
-cryptography==3.3.2
+cryptography==46.0.5
 cpe==1.2.1
 itsdangerous==2.0.1
 Jinja2==3.0.3
